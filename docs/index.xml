@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SHjoshi</title>
+    <link>https://shubham4564.github.io/shjoshi/</link>
+    <description>Recent content on SHjoshi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://shubham4564.github.io/shjoshi/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KAPP</title>
+      <link>https://shubham4564.github.io/shjoshi/projects/kapp/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/projects/kapp/</guid>
+      <description>KAPP KAPP is an android app. It is an information and navigation application currently focused on Central Kathmandu University, Dhulikhel. It is useful for the freshers, visitors, new people to Kathmandu University so that they can navigate and roam around and find places around KU and even inside of a building with indoor maps.</description>
+    </item>
+    
+    <item>
+      <title>Remote Controlled Car</title>
+      <link>https://shubham4564.github.io/shjoshi/projects/rccar/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/projects/rccar/</guid>
+      <description>I along with my team build a RC car with an android phone as a remote. The feature of the car was obstacle detection, live camera feed with ip camera, bluetooth controlled, easy to drive accelerometer handling.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO (KASARI)</title>
+      <link>https://shubham4564.github.io/shjoshi/projects/howto/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/projects/howto/</guid>
+      <description>HOW TO was our first univesity project. It was developed with the purpose of teaching through visual aid. It provides step wise instruction and one can drag and drop the elements to complete the task. The task that we implemented were HOW TO Assemble a copmuter(back cables only for begineers), HOW TO crimp a RJ-45 and similar.</description>
+    </item>
+    
+    <item>
+      <title>Hipster Ipsum</title>
+      <link>https://shubham4564.github.io/shjoshi/blog/hipster-ipsum/</link>
+      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/blog/hipster-ipsum/</guid>
+      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
+    </item>
+    
+    <item>
+      <title>Startup Ipsum</title>
+      <link>https://shubham4564.github.io/shjoshi/blog/startup-ipsum/</link>
+      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/blog/startup-ipsum/</guid>
+      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
+    </item>
+    
+    <item>
+      <title>Coffee Ipsum</title>
+      <link>https://shubham4564.github.io/shjoshi/blog/coffee-ipsum/</link>
+      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/blog/coffee-ipsum/</guid>
+      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://shubham4564.github.io/shjoshi/contact/</link>
+      <pubDate>Thu, 09 Mar 2017 13:23:28 +0800</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/contact/</guid>
+      <description>Feel free to drop me mail at given email below</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://shubham4564.github.io/shjoshi/about/</link>
+      <pubDate>Thu, 09 Mar 2017 13:19:25 +0800</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/about/</guid>
+      <description>Hello there, I am SHjoshi, Shubham Joshi. This is my personal website just to share few things with you guys. You can check out my Photography Section, Portfolio Section and little blog over here.
+Little About Me  Computer Engineering in Kathmandu University Open Source and Linux Enthusiast, Coordinator at Kathmandu University Open Source Community Volunteer in Help Nepal&amp;rsquo;s ELibrary Project Linux Administrator &amp;amp; Wordpress, Android and Web Developer TRAVELLER !</description>
+    </item>
+    
+  </channel>
+</rss>

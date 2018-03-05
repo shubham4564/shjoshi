@@ -1,0 +1,9 @@
+<div class="section" id="footer"><!-- Begin Footer section -->
+    <div class="container has-text-centered"><!-- Begin Footer container -->
+        {{ if .Site.Params.footerText }}
+            {{ .Site.Params.footerText }}
+        {{ else }}
+        <span class="footer-text">Made with <i class="fa fa-heart"></i> and <i class="fa fa-coffee"></i>. <a href="https://shjoshi.com.np" target="_blank" rel="noopener">Shubham Joshi</a> {{ now.Format "2006" }}</span>
+        {{ end }}
+    </div><!-- End Footer container -->
+</div><!-- End Footer section -->

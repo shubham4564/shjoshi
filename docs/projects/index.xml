@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on SHjoshi</title>
+    <link>https://shubham4564.github.io/shjoshi/projects/</link>
+    <description>Recent content in Projects on SHjoshi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 13 Nov 2017 12:21:21 -0500</lastBuildDate>
+    
+	<atom:link href="https://shubham4564.github.io/shjoshi/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KAPP</title>
+      <link>https://shubham4564.github.io/shjoshi/projects/kapp/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:21 -0500</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/projects/kapp/</guid>
+      <description>KAPP KAPP is an android app. It is an information and navigation application currently focused on Central Kathmandu University, Dhulikhel. It is useful for the freshers, visitors, new people to Kathmandu University so that they can navigate and roam around and find places around KU and even inside of a building with indoor maps.</description>
+    </item>
+    
+    <item>
+      <title>Remote Controlled Car</title>
+      <link>https://shubham4564.github.io/shjoshi/projects/rccar/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:16 -0500</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/projects/rccar/</guid>
+      <description>I along with my team build a RC car with an android phone as a remote. The feature of the car was obstacle detection, live camera feed with ip camera, bluetooth controlled, easy to drive accelerometer handling.</description>
+    </item>
+    
+    <item>
+      <title>HOW TO (KASARI)</title>
+      <link>https://shubham4564.github.io/shjoshi/projects/howto/</link>
+      <pubDate>Mon, 13 Nov 2017 12:21:11 -0500</pubDate>
+      
+      <guid>https://shubham4564.github.io/shjoshi/projects/howto/</guid>
+      <description>HOW TO was our first univesity project. It was developed with the purpose of teaching through visual aid. It provides step wise instruction and one can drag and drop the elements to complete the task. The task that we implemented were HOW TO Assemble a copmuter(back cables only for begineers), HOW TO crimp a RJ-45 and similar.</description>
+    </item>
+    
+  </channel>
+</rss>
